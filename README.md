@@ -1,15 +1,12 @@
-# homepage
+# homepage (retired)
 
-Personal homepage of **Dongle Feng** — a single static page served by GitHub Pages.
+This repository held an early single-page version of Dongle Feng's homepage.
+It is **retired** and now serves only a redirect.
 
-- Live site: https://pedia666-bit.github.io/homepage/
-- Source: [`index.html`](./index.html) — one file, no build step, no dependencies.
+- **Current site: https://julian-donald-von.github.io/** (repo `Julian-Donald-Von/Julian-Donald-Von.github.io`)
+- This repo's path `/homepage/` redirects there and is marked `noindex`.
 
-## Editing
+## Warning
 
-Edit `index.html` on `main`; GitHub Pages rebuilds automatically within a minute or two.
-
-## Notes
-
-- Live: [ORCID](https://orcid.org/0009-0003-7527-5770)
-- Placeholder sections (Google Scholar / CV) are marked `N/A` until real links exist.
+The GitHub account **`pedia666-bit` does not exist**. The URL
+`https://pedia666-bit.github.io/homepage/` is permanently 404 and **must not be cited anywhere**.
